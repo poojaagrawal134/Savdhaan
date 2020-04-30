@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455149895659",
+    "firebase_url": "https://savdhaan-c8900.firebaseio.com",
+    "project_id": "savdhaan-c8900",
+    "storage_bucket": "savdhaan-c8900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455149895659:android:530dad0f311da5b11463ae",
+        "android_client_info": {
+          "package_name": "com.example.savdhaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455149895659-9tm37s4opcr27m08o3587cj7c3nhinbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.savdhaan",
+            "certificate_hash": "a2a867bd0e23f792a3b8ff03c64490f2abb469e3"
+          }
+        },
+        {
+          "client_id": "455149895659-18jl4shla507pl4l3077j954ttc1a51j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7RQ2BFGTQGmFaxSWX4y7ywrFxdq6DQQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455149895659-18jl4shla507pl4l3077j954ttc1a51j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
